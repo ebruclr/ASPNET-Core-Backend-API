@@ -7,7 +7,7 @@ Bu proje, modern web standartları kullanılarak geliştirilmiş, dinamik içeri
 * **Kullanıcı Bazlı Doğrulama (Business Logic):** Admin yetkisine sahip olmayan kullanıcıların, her film için yalnızca bir adet inceleme (review) bırakabilmesini sağlayan kontrol mekanizması geliştirilmiştir.
 * **Gelişmiş İnceleme Takibi:** Güncellenen yorumlar için otomatik olarak "Edited" etiketi ve düzenleme zaman damgası (**timestamp**) gösterimi eklenmiştir.
 * **RESTful API Entegrasyonu:**
-    * ]**Top-Rated Servisi:** En yüksek puan alan filmleri JSON formatında döndüren performanslı bir uç nokta kurgulanmıştır.
+    * **Top-Rated Servisi:** En yüksek puan alan filmleri JSON formatında döndüren performanslı bir uç nokta kurgulanmıştır.
     * **Yorum Servisi:** Belirli bir filme ait tüm kullanıcı yorumlarını, puanlarını ve yazar bilgilerini asenkron olarak listeleyen servis yapısı oluşturulmuştur.
 
 ## Teknoloji Yığını
