@@ -1,4 +1,4 @@
-# [cite_start]CineClub: ASP.NET Core API ve İçerik Yönetim Sistemi [cite: 1, 4]
+# CineClub: ASP.NET Core API ve İçerik Yönetim Sistemi
 
 ## Genel Bakış
 Bu proje, modern web standartları kullanılarak geliştirilmiş, dinamik içerik yönetimi ve RESTful API servislerini kapsayan bir arka uç (back-end) geliştirme çalışmasıdır. Mevcut CineClub platformu üzerine; veri bütünlüğünü sağlayan iş mantığı kuralları, kullanıcı bazlı kısıtlamalar ve asenkron veri akışı sağlayan API uç noktaları entegre edilmiştir.
